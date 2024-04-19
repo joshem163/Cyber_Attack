@@ -13,7 +13,7 @@ This innovative machine learning model is developed for outage detection in smar
 5. TensorFlow
 
 # Dataset
-37 Bus Network time sries dataset which is available in this repository
+37 Bus and 123 Bus Network time sries dataset which is available in this repository
 # Running the experiment
 1. Execute all cell of notebook to run the experiment:
 2. Make sure to maintain the sequential order of execution as specified in the code.
